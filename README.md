@@ -2,7 +2,7 @@
 
 A simple command‑line To‑Do List application built with Python. It allows you to add, view, complete, delete, save, and load tasks. Great for beginners to practice lists, user input, and file handling in Python.
 
----
+
 
 ## ✨ Features
 
@@ -13,7 +13,7 @@ A simple command‑line To‑Do List application built with Python. It allows yo
 - **Save/Load:** Store tasks in a text file and reload them later  
 - **Simple CLI:** Runs entirely in the terminal/command prompt  
 
----
+
 
 ## 📦 Requirements
 
@@ -21,13 +21,13 @@ A simple command‑line To‑Do List application built with Python. It allows yo
 - Any text editor or IDE (VS Code, Sublime, etc.)  
 - Works on Windows, Linux, or macOS  
 
----
+
 
 ## 🚀 Installation & Run
 
 - Clone project files into a pc and open To-Do List.py in vs code
 
----
+
 
 ## Usage
 When you run the program, you’ll see a menu:
@@ -48,7 +48,7 @@ When you run the program, you’ll see a menu:
 
 Enter the number of your choice and follow the prompts.
 
----
+
 
 ## Future Improvements
 Add due dates for tasks

@@ -25,4 +25,38 @@ A simple command‑line To‑Do List application built with Python. It allows yo
 
 ## 🚀 Installation & Run
 
-1. Clone or copy the project files into a folder:
+- Clone project files into a pc
+
+---
+
+## Usage
+When you run the program, you’ll see a menu:
+
+1. Add Task
+
+2. View Tasks
+
+3. Mark Task as Done
+
+4. Delete Task
+
+5. Save Tasks
+
+6. Load Tasks
+
+0. Exit
+
+Enter the number of your choice and follow the prompts.
+
+---
+
+## Future Improvements
+Add due dates for tasks
+
+Add categories/tags
+
+Implement search & filter
+
+Add unit tests
+
+Build a GUI with Tkinter or PyQt

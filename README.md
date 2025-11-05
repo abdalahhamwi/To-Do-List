@@ -26,7 +26,6 @@ A simple command‑line To‑Do List application built with Python. It allows yo
 ## 🚀 Installation & Run
 
 - Clone project files into a pc and open To-Do List.py in vs code
-- Enjoy
 
 ---
 
